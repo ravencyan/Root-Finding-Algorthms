@@ -21,10 +21,10 @@ and handling special cases need to be taken into consideration.
 System Architecture
 ===================
 
-Input will provide an prompt for the user to enter an equation in the format:
+The program will provide an prompt for the user to input an equation in the format:
 :math:`f(x)=0`. The system will then run all implemented algorithms and compare
 the performance between them. Finally, the program will show the calculated
-result and the comparison table for the users.
+root and the comparison table for the user.
 
 
 API Description
@@ -39,7 +39,7 @@ Engineering Infrastructure
 - ``CMake`` will be used to build the program.
 - ``git`` will be used for version control.
 - ``pytest`` will be used for unit tests.
-- A README file will be used for documentation.
+- A ``README.rst`` file will be used for documentation.
 
 Schedule
 ========
@@ -49,9 +49,9 @@ Schedule
 * Week 3 (04/22): Add functions in the algorithms to record their performance for comparison.
 * Week 4 (04/29): Build the input prompt for users to input equations.
 * Week 5 (05/06): Put the algorithms, input prompt, output, and comparison table together into a API.
-* Week 6 (05/13): Add 1-2 more algoirthms. Optimize the code.
-* Week 7 (05/20): Final check for any potential bugs. Update the documentation to the final version.
-* Week 8 (05/27): Prepare for the presentation.
+* Week 6 (05/13): Add 1-2 more algoirthms. Optimize the codes (all).
+* Week 7 (05/20): Final check for any potential bugs, update the documentation to the final version.
+* Week 8 (05/27): Prepare for the presentation
 
 References
 ==========
