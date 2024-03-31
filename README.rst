@@ -49,9 +49,9 @@ Schedule
 * Week 3 (04/22): Add functions in the algorithms to record their performance for comparison.
 * Week 4 (04/29): Build the input prompt for users to input equations.
 * Week 5 (05/06): Put the algorithms, input prompt, output, and comparison table together into a API.
-* Week 6 (05/13): Add 1-2 more algoirthms. Optimize the codes (all).
-* Week 7 (05/20): Final check for any potential bugs, update the documentation to the final version.
-* Week 8 (05/27): Prepare for the presentation
+* Week 6 (05/13): Add 1-2 more algoirthms. Optimize the code.
+* Week 7 (05/20): Final check for any potential bugs. Update the documentation to the final version.
+* Week 8 (05/27): Prepare for the presentation.
 
 References
 ==========
