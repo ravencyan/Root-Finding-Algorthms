@@ -5,7 +5,7 @@ Root Finding Algorithms
 Basic Information
 =================
 
-Github Repository:
+Github Repository: https://github.com/ravencyan/Root-Finding-Algorthms
 
 Problem to Solve & Prospective Users
 ====================================
